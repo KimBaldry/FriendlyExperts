@@ -1,5 +1,6 @@
 ---
 layout: default
+title: BGC-Argo Friendly Expert
 ---
 
 # The Biogeochemical Argo program
