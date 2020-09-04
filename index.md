@@ -1,3 +1,6 @@
+---
+layout
+---
 
 This is an effort to support new users of BGC Argo data led by PhD student Kimberlee Baldry from the University of Tasmania.
 
