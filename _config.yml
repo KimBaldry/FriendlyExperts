@@ -1,27 +1,5 @@
 theme: jekyll-theme-cayman
-title: "BGC-Argo Friendly Experts"
-subtitle: "The Biogeochemical Argo program"
-description: "Accessible resources for users of the Biogeochemical Argo program"
-baseurl: "/FriendlyExperts"
-url: "https://KimBaldry.github.io"
-date_format: "%B %-d, %Y"
-
-# Site Author
-author: 
-  name: Kimberlee Baldry
-  picture: 
-  email: kimberlee.baldry@utas.edu.au
-  twitter: bgc_kim
-  links:
-    - title: Twitter
-      url: https://twitter.com/bgc_kim
-      icon: fab fa-twitter-square
-#    - title: GitHub
-#      url: https://github.com/KimBaldry
-#      icon: fab fa-github-square
- #  - title: ResearchGate
- #       url: https://www.researchgate.net/profile/Kimberlee_Baldry
- #       icon: fab fa-github-square
-  #  - title: OrcID
- #       url: https://www.researchgate.net/profile/Kimberlee_Baldry
- #       icon: fab fa-github-square
+title: BGC-Argo Friendly Experts
+description: Accessible resources for users of the Biogeochemical Argo program
+show_downloads: true
+google_analytics:
