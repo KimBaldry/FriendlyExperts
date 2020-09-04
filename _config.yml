@@ -16,9 +16,9 @@ author:
     - title: Twitter
       url: https://twitter.com/bgc_kim
       icon: fab fa-twitter-square
-    - title: GitHub
-      url: https://github.com/KimBaldry
-      icon: fab fa-github-square
+#    - title: GitHub
+#      url: https://github.com/KimBaldry
+#      icon: fab fa-github-square
  #  - title: ResearchGate
  #       url: https://www.researchgate.net/profile/Kimberlee_Baldry
  #       icon: fab fa-github-square
