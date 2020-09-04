@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
-title: "Friendly Experts"
+title: "BGC-Argo Friendly Experts"
 subtitle: "The Biogeochemical Argo program"
-description: "Accessible resources for users"
+description: "Accessible resources for users of the Biogeochemical Argo program"
 baseurl: "/FriendlyExperts"
 url: "https://KimBaldry.github.io"
 date_format: "%B %-d, %Y"
