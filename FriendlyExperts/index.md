@@ -17,79 +17,79 @@ Please also contact the gmail address if you have experience working with BGC Ar
 [argo-dm@jcommops.org](mailto:argo-dm@jcommops.org?)
 
 ## Oxygen
-*Henry Bittig
-*Joellen Russel
-*Seth Bushinsky
-*Andrea Fassbender
-*Ian Walsh
-*Lidia Carracedo
-*Laurent Coppola
-*Marine Fourrier
+- Henry Bittig
+- Joellen Russel
+- Seth Bushinsky
+- Andrea Fassbender
+- Ian Walsh
+- Lidia Carracedo
+- Laurent Coppola
+- Marine Fourrier
 
 ## Nitrate
-Joellen Russel
-Seth Bushinsky
-John Doherty
-Andrea Fassbender
-Ian Walsh
-Lidia Carracedo
-Pearse Buchanan
-Jiaoyang Su
+- Joellen Russel
+- Seth Bushinsky
+- John Doherty
+- Andrea Fassbender
+- Ian Walsh
+- Lidia Carracedo
+- Pearse Buchanan
+- Jiaoyang Su
 
 ## pH
-Nancy Williams
-Marcos Fontela
-Joellen Russell
-Seth Bushinsky
-Andrea Fassbender
-Ian Walsh
-Lidia Carracedo
+- Nancy Williams
+- Marcos Fontela
+- Joellen Russell
+- Seth Bushinsky
+- Andrea Fassbender
+- Ian Walsh
+- Lidia Carracedo
 
 ## Fluorescence
-Nathan Briggs
-Giorgio Dall’Olmo
-Ian Walsh
-Peter Croot
-Lidia Carracedo
-Christina Schallenberg
-Marin Cornec
-Xiaogang Xing
+- Nathan Briggs
+- Giorgio Dall’Olmo
+- Ian Walsh
+- Peter Croot
+- Lidia Carracedo
+- Christina Schallenberg
+- Marin Cornec
+- Xiaogang Xing
 
 ## Backscatter
-Nathan Briggs
-Giorgio Dall’Olmo
-Ian Walsh
-Martí Galí Tàpias
-Christina Schallenberg 
-Marin Cornec
-Raphaëlle Sauzède
-Xiaogang Xing
+- Nathan Briggs
+- Giorgio Dall’Olmo
+- Ian Walsh
+- Martí Galí Tàpias
+- Christina Schallenberg 
+- Marin Cornec
+- Raphaëlle Sauzède
+- Xiaogang Xing
 
 ## Irradience
-Nathan Briggs
-Ian Walsh
-Bozena Wojtasiewicz
-David Antoine
-Emanuele Organelli
-Xiaogang Xing
+- Nathan Briggs
+- Ian Walsh
+- Bozena Wojtasiewicz
+- David Antoine
+- Emanuele Organelli
+- Xiaogang Xing
 
 ## The SOCCOM program
-Lynn Talley
-Ken Johnson
-Joellen Russel
-Tanya Maurer
-Josh Plant
+- Lynn Talley
+- Ken Johnson
+- Joellen Russel
+- Tanya Maurer
+- Josh Plant
 
 ## Marine Bio-optics Lab
-Herve Claustre
-Raphaëlle Sauzède
-Julia Uitz
-Catherine Schmechtig
-Antoine Poteau
-Fabrizio D'Ortenzio
+- Herve Claustre
+- Raphaëlle Sauzède
+- Julia Uitz
+- Catherine Schmechtig
+- Antoine Poteau
+- Fabrizio D'Ortenzio
 
 ## IMOS BGC Argo sub-facility
-Christina Schallenberg
-Peter Strutton
-Thomas Trull
+- Christina Schallenberg
+- Peter Strutton
+- Thomas Trull
 
