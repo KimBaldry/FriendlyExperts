@@ -1,5 +1,7 @@
 ---
 layout: default
+title: BGC Argo Friendly Experts
+description: Accessible resources for users of the Biogeochemical Argo program
 ---
 
 # Friendly Experts
@@ -12,7 +14,7 @@ Please also contact the gmail address if you have experience working with BGC Ar
 ## The Network
 
 ### Argo Data Management Team
-[argo-dm@jcommops.org](argo-dm@jcommops.org)
+[argo-dm@jcommops.org](mailto:argo-dm@jcommops.org?)
 
 ### Oxygen
 Henry Bittig
