@@ -3,16 +3,16 @@ layout: default
 ---
 
 # Friendly Experts
-The biogeochemical Argo community is very approachable. If you have any questions regarding BGC Argo you can contact some friendly experts on the below email. You are also welcome to contact them individually if you have any specialist questions regarding their work. 
+The biogeochemical Argo community is very approachable. If you have any questions regarding BGC Argo you can contact the friendly experts on the group email address. You are also welcome to contact individuals directly if you have any specialist questions regarding their work.
 
-BGCArgo.FriendlyExperts@gmail.com
+[BGCArgo.FriendlyExperts@gmail.com](BGCArgo.FriendlyExperts@gmail.com)
 
 Please also contact the gmail address if you have experience working with BGC Argo data and would like to be included on this list
 
 ## The Network
 
 ### Argo Data Management Team
-argo-dm@jcommops.org[argo-dm@jcommops.org]
+[argo-dm@jcommops.org](argo-dm@jcommops.org)
 
 ### Oxygen
 Henry Bittig
