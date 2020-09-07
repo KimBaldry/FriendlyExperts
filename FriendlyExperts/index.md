@@ -81,7 +81,7 @@ Please also contact the gmail address if you have experience working with BGC Ar
 - Josh Plant
 
 ## Marine Bio-optics Lab
-- Herve Claustre
+- Hervé Claustre
 - Raphaëlle Sauzède
 - Julia Uitz
 - Catherine Schmechtig
