@@ -1,5 +1,7 @@
 ---
 layout: default
+title: BGC Argo Friendly Experts
+description: Accessible resources for users of the Biogeochemical Argo program
 ---
 
 ### The Biogeochemical Argo program
