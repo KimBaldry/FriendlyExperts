@@ -4,4 +4,6 @@ This work has been completed under Kimberlee's continuing [Antarctic Gateway Par
 
 The [Raphaëlle Sauzède](https://www.researchgate.net/profile/Raphaelle_Sauzede), [Marin Cornec](https://www.researchgate.net/profile/Marin_Cornec) and [Hervé Claustre](https://www.researchgate.net/profile/Herve_Claustre) from the [Marine Bio-optics lab](http://omtab.obs-vlfr.fr/index.htm) have greatfully collaborated and supported these efforts.
 
+These efforts are supported by [SOOS](http://www.soos.aq/)
+
 ![Logos](./Ack.png)
