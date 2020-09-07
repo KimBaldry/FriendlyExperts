@@ -9,3 +9,5 @@ The BGC Argo program is a network of robotic floats equiped with biogeochemical 
 This is a continuing, collaborative effort to support new users of BGC Argo data. Led by PhD student Kimberlee Baldry from the University of Tasmania, it was established from her own experiences as a new user after her introduction to BGC Argo in 2018.
 
 ![KimBaldry](SCAR_profile.jpg)
+
+*Photo credit: Andrew Rhodes*
