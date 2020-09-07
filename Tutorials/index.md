@@ -5,4 +5,4 @@ In August, Kimberlee Baldry presented a workshop for BGC Argo users "Accessing t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKZ0owuc1zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![SCAR Flyer](./SCAR2020_BGC-Argo_flyer.pdf)
+![SCAR Flyer](./Friendly experts.png)
