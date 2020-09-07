@@ -11,22 +11,22 @@ The biogeochemical Argo community is very approachable. If you have any question
 
 Please also contact the gmail address if you have experience working with BGC Argo data and would like to be included on this list
 
-## The Network
+# The People
 
-### Argo Data Management Team
+## Argo Data Management Team
 [argo-dm@jcommops.org](mailto:argo-dm@jcommops.org?)
 
-### Oxygen
-Henry Bittig
-Joellen Russel
-Seth Bushinsky
-Andrea Fassbender
-Ian Walsh
-Lidia Carracedo
-Laurent Coppola
-Marine Fourrier
+## Oxygen
+*Henry Bittig
+*Joellen Russel
+*Seth Bushinsky
+*Andrea Fassbender
+*Ian Walsh
+*Lidia Carracedo
+*Laurent Coppola
+*Marine Fourrier
 
-### Nitrate
+## Nitrate
 Joellen Russel
 Seth Bushinsky
 John Doherty
@@ -36,7 +36,7 @@ Lidia Carracedo
 Pearse Buchanan
 Jiaoyang Su
 
-### pH
+## pH
 Nancy Williams
 Marcos Fontela
 Joellen Russell
@@ -45,7 +45,7 @@ Andrea Fassbender
 Ian Walsh
 Lidia Carracedo
 
-### Fluorescence
+## Fluorescence
 Nathan Briggs
 Giorgio Dall’Olmo
 Ian Walsh
@@ -55,7 +55,7 @@ Christina Schallenberg
 Marin Cornec
 Xiaogang Xing
 
-### Backscatter
+## Backscatter
 Nathan Briggs
 Giorgio Dall’Olmo
 Ian Walsh
@@ -65,7 +65,7 @@ Marin Cornec
 Raphaëlle Sauzède
 Xiaogang Xing
 
-### Irradience
+## Irradience
 Nathan Briggs
 Ian Walsh
 Bozena Wojtasiewicz
@@ -73,14 +73,14 @@ David Antoine
 Emanuele Organelli
 Xiaogang Xing
 
-### The SOCCOM program
+## The SOCCOM program
 Lynn Talley
 Ken Johnson
 Joellen Russel
 Tanya Maurer
 Josh Plant
 
-### Marine Bio-optics Lab
+## Marine Bio-optics Lab
 Herve Claustre
 Raphaëlle Sauzède
 Julia Uitz
@@ -88,7 +88,7 @@ Catherine Schmechtig
 Antoine Poteau
 Fabrizio D'Ortenzio
 
-### IMOS BGC Argo sub-facility
+## IMOS BGC Argo sub-facility
 Christina Schallenberg
 Peter Strutton
 Thomas Trull
