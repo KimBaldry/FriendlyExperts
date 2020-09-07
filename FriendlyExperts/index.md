@@ -7,7 +7,7 @@ description: Accessible resources for users of the Biogeochemical Argo program
 # Friendly Experts
 The biogeochemical Argo community is very approachable. If you have any questions regarding BGC Argo you can contact the friendly experts on the group email address. You are also welcome to contact individuals directly if you have any specialist questions regarding their work.
 
-[BGCArgo.FriendlyExperts@gmail.com](BGCArgo.FriendlyExperts@gmail.com)
+[BGCArgo.FriendlyExperts@gmail.com](mailto:BGCArgo.FriendlyExperts@gmail.com?)
 
 Please also contact the gmail address if you have experience working with BGC Argo data and would like to be included on this list
 
