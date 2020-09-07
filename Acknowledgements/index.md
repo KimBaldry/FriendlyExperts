@@ -1,3 +1,9 @@
+---
+layout: default
+title: BGC Argo Friendly Experts
+description: Accessible resources for users of Biogeochemical Argo
+---
+
 # Acknowledgements
 Thankyou to the international Argo community, both past and present, who have made this data freely available to all users over decades of hard work.
 
