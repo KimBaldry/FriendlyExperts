@@ -29,7 +29,6 @@ Please also contact the gmail address if you have experience working with BGC Ar
 ## Nitrate
 - Joellen Russel
 - Seth Bushinsky
-- John Doherty
 - Andrea Fassbender
 - Ian Walsh
 - Lidia Carracedo
