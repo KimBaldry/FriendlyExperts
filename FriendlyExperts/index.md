@@ -11,9 +11,6 @@ The biogeochemical Argo community is very approachable. If you have any question
 
 # The People
 
-## Argo Data Management Team
-[argo-dm@jcommops.org](mailto:argo-dm@jcommops.org?)
-
 - Henry Bittig
 - Joellen Russel
 - Seth Bushinsky
@@ -38,6 +35,9 @@ The biogeochemical Argo community is very approachable. If you have any question
 - Emanuele Organelli
 
 # Programs and groups
+## Argo Data Management Team
+[argo-dm@jcommops.org](mailto:argo-dm@jcommops.org?)
+
 ## The SOCCOM program
 
 
