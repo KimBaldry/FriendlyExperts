@@ -64,7 +64,7 @@ Please also contact the gmail address if you have experience working with BGC Ar
 - Raphaëlle Sauzède
 - Xiaogang Xing
 
-## Irradience
+## Irradiance
 - Nathan Briggs
 - Ian Walsh
 - Bozena Wojtasiewicz
