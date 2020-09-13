@@ -24,7 +24,7 @@ Christina looks after quality control for BGC Argo Australia and spends a good d
 Nancy is a chemical oceanographer focused on studying the ocean's role in the carbon cycle and in climate using both observations and model output.  As part of her work with the SOCCOM project, she developed methods to quality control biogeochemical Argo pH data and to derive other carbonate system variables, focusing on estimating realistic uncertainties.
 
 <p style="text-align: center;"> 
-[Professional Profile](https://www.marine.usf.edu/nancy-williams/) | [Expert work #1](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005541) | [Expert work #2](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068539)
+<a href = "https://www.marine.usf.edu/nancy-williams/">Professional Profile</a> | <a href ="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005541">Expert work #1 </a> | <a href ="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068539">Expert work #2</a>
 </p>
 
 - Henry Bittig
