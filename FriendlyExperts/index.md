@@ -13,7 +13,7 @@ The biogeochemical Argo community is very approachable. If you have any question
 
 ### Christina Schallenberg
 <div>
-  <img align="left" width="200" height="200" HSPACE=”50” VSPACE=”50” src="./Profiles/C_Schallenberg.jpg">
+  <img align="left" width="200" height="200" hspace=”50” vspace=”50” src="./Profiles/C_Schallenberg.jpg">
   <p>Christina looks after quality control for BGC Argo Australia and spends a good deal of her time thinking about phytoplankton physiology. She is particularly passionate about phytoplankton fluorescence and all the things it can and can’t tell us.</p>
   <p style="text-align: center;"> 
   <a href = "https://www.utas.edu.au/profiles/staff/imas/christina-schallenberg">Professional Profile</a> | <a href ="https://www.frontiersin.org/articles/10.3389/fmars.2019.00595/full">Expert work #1 </a> | <a href ="https://bg.copernicus.org/articles/17/793/2020/">Expert work #2</a>
