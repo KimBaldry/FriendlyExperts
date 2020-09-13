@@ -18,7 +18,7 @@ The biogeochemical Argo community is very approachable. If you have any question
   <p style="text-align: center;"> 
   <a href = "https://www.utas.edu.au/profiles/staff/imas/christina-schallenberg">Professional Profile</a> | <a href ="https://www.frontiersin.org/articles/10.3389/fmars.2019.00595/full">Expert work #1 </a> | <a href ="https://bg.copernicus.org/articles/17/793/2020/">Expert work #2</a>
   </p>
- </div>
+</div>
 
 
 ### Nancy Williams
@@ -28,7 +28,7 @@ The biogeochemical Argo community is very approachable. If you have any question
   <p style="text-align: center;"> 
   <a href = "https://www.marine.usf.edu/nancy-williams/">Professional Profile</a> | <a href ="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005541">Expert work #1 </a> | <a href ="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068539">Expert work #2</a>
   </p>
- </div>
+</div>
  
 - Henry Bittig
 - Joellen Russel
