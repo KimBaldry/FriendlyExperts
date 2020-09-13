@@ -12,7 +12,7 @@ The biogeochemical Argo community is very approachable. If you have any question
 # The People
 
 ### Christina Schallenberg
-<div>
+<div class="img-with-text">
   <img align="left" width="200" height="200" src="./Profiles/C_Schallenberg.jpg">
   <p>Christina looks after quality control for BGC Argo Australia and spends a good deal of her time thinking about phytoplankton physiology. She is particularly passionate about phytoplankton fluorescence and all the things it can and can’t tell us.</p>
   <p style="text-align: center;"> 
@@ -22,7 +22,7 @@ The biogeochemical Argo community is very approachable. If you have any question
 
 
 ### Nancy Williams
-<div>
+<div class="img-with-text">
   <img align="left" width="200" height="200" src="./Profiles/NL_Williams.png">
   <p>Nancy is a chemical oceanographer focused on studying the ocean's role in the carbon cycle and in climate using both observations and model output.  As part of her work with the SOCCOM project, she developed methods to quality control biogeochemical Argo pH data and to derive other carbonate system variables, focusing on estimating realistic uncertainties.</p>
   <p style="text-align: center;"> 
