@@ -21,13 +21,14 @@ The biogeochemical Argo community is very approachable. If you have any question
  </div>
 
 ### Nancy Williams
-<img align="left" width="200" height="200" src="./Profiles/NL_Williams.png">
-Nancy is a chemical oceanographer focused on studying the ocean's role in the carbon cycle and in climate using both observations and model output.  As part of her work with the SOCCOM project, she developed methods to quality control biogeochemical Argo pH data and to derive other carbonate system variables, focusing on estimating realistic uncertainties.
-
-<p style="text-align: center;"> 
-<a href = "https://www.marine.usf.edu/nancy-williams/">Professional Profile</a> | <a href ="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005541">Expert work #1 </a> | <a href ="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068539">Expert work #2</a>
-</p>
-
+<div>
+  <img align="left" width="200" height="200" src="./Profiles/NL_Williams.png">
+  <p>Nancy is a chemical oceanographer focused on studying the ocean's role in the carbon cycle and in climate using both observations and model output.  As part of her work with the SOCCOM project, she developed methods to quality control biogeochemical Argo pH data and to derive other carbonate system variables, focusing on estimating realistic uncertainties.</p>
+  <p style="text-align: center;"> 
+  <a href = "https://www.marine.usf.edu/nancy-williams/">Professional Profile</a> | <a href ="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GB005541">Expert work #1 </a> | <a href ="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL068539">Expert work #2</a>
+  </p>
+ </div>
+ 
 - Henry Bittig
 - Joellen Russel
 - Seth Bushinsky
